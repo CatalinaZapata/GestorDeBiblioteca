@@ -82,7 +82,7 @@ GestorDeBiblioteca/
 
 ---
 
-**Repositorio GitHub:** https: https://github.com/CatalinaZapata/Empresa_Reparto_SpeedFast2.git |
+**Repositorio GitHub:** https: https://github.com/CatalinaZapata/GestorDeBiblioteca.git |
 **Fecha de entrega:** 11/10/2026
 
 ---
